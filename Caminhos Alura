@@ -1,0 +1,74 @@
+<main>
+    <div class="passo ativo" id="passo-0">
+        <img src="cenario-passo0.png" alt="">
+        <p>Em uma noite de uma sexta feira 13,você se depara com email de um desconhecido fazendo uma proposta de trabalho. O trabalho era de investigar um desaparecimento de uma pessoa importante. No email, ele fala sobre a casa pessoal do desaparecido e fala sobre seu local de trabalho. Qual local você irá primeiro? </p>
+        <button class="btn-proximo" data-proximo="1">Ir para a casa pessoal</button>
+        <button class="btn-proximo" data-proximo="2">Ir para o local de trabalho</button>
+    </div>
+    <div class="passo" id="passo-1">
+        <p>Você começa sua busca indo para a casa pessoal, se dirigindo ao local fixado no email. Chegando lá, você repara que a porta está aberta aberta e com as luzes acessas. Ao entrar nela, um cheiro estranho estava na cozinha, e o escritória estava com a porta levemente aberta. Qual Você gostaria de investigar?
+    .</p>
+        <button class="btn-proximo" data-proximo="3">Investigar a cozinha</button>
+        <button class="btn-proximo" data-proximo="4">Ir primeiro para o escritório</button>
+    </div>
+    <div class="passo" id="passo-2">
+        <p>Chegando no local de trabalho, você se depara com uma simples petshop. Você entra no lugar e rapidamente é atendido por um senhor. Ele pergunta sobre o que você deseja, e você diz que só está olhando. Em um dos cantos da loja, você encontra um bilhete escrito "banheiro". Qual será seu próximo passo? </p>
+        <button class="btn-proximo" data-proximo="5">Investigar o banheiro</button>
+        <button class="btn-proximo" data-proximo="6">Ignorar e continuar procurando</button>
+    </div>
+    <div class="passo" id="passo-3">
+        <p> Você vai até a cozinha e encontra comida estragada, mas quando se vira para ir embora naquele cômodo, você encontra panfletos da Ponte Estaiada Octavio Frias de Oliveira e um calendário com o dia 23 sendo marcado, uma semana antes dos acontecimentos atuais. 
+     O que você prefere fazer? </p>
+        <button class="btn-proximo" data-proximo="7">Constatar o desconhecido do emaill e ele diz para ao centro de São de Paulo</button>
+    </div>
+
+    <div class="passo" id="passo-4">
+        <p> Você ignora as evidências
+        </p>
+    </div>
+
+    <div class="passo" id="passo-5">
+        <p>Indo ao banheiro, uma outra mensagem é vista, dizendo que você deve achar uma
+            ponte alta no centro. </p>
+        <button class="btn-proximo" data-proximo="7">Ir ao centro de São Paulo</button>
+    </div>
+
+    <div class="passo" id="passo-6">
+        <p>Ao continuar vasculhando, você não encontra mais nada.</p>
+        <button class="btn-proximo" data-proximo="8">Voltar e ir ao banheiro</button>
+    </div>
+
+    <div class="passo" id="passo-7">
+        <p>Indo ao centro de São Paulo, uma placa diz para você ir embaixo dela.</p>
+        <button class="btn-proximo" data-proximo="9">Ir embaixo da ponte e averiguar</button>
+        <button class="btn-proximo" data-proximo="10">procurar em volta</button>
+    </div>
+
+    <div class="passo" id="passo-8">
+        <p>Indo ao banheiro, você encontra um bilhete dizendo para você ir para a ponte no centro de São Paulo</p>
+        <button class="btn-proximo" data-proximo="7">Ir para a ponte no centro de São Paulo</button>
+    </div>
+
+    <div class="passo" id="passo-9">
+        <p>Indo embaixo da ponte, você encontra uma porta aberta que está situada em uma
+            das paredes.</p>
+        <button class="btn-proximo" data-proximo="11">Explorar o local desconhecido</button>
+    </div>
+
+    <div class="passo" id="passo-10">
+        <p>Você explora em volta, mas não encontra nadfa
+        </p>
+        <button class="btn-proximo" data-proximo="12">Retornar e ir embaixo da ponte</button>
+    </div>
+
+    <div class="passo" id="passo-11">
+        <p> Explorando o local, você encontra um baú de tesouro. Você verifica se tem alguma câmera ou pessoa por perto, mas não encontra nada. Então, você abdica do tesouro e fica feliz com sua conquista.
+            lugar</p>
+    </div>
+
+    <div class="passo" id="passo-12">
+        <p>Indo embaixo da ponte, você encontra uma porta.
+            levam à cidade perdida.</p>
+        <button class="btn-proximo" data-proximo="11">abrir porta</button>
+    </div>
+</main> ao adentrar, um baú deslumbrante estava aparente. Você se aproxim
